@@ -1,40 +1,80 @@
 [
-	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
-		"author": [
-			{
-				"family": "Naylor",
-				"given": "P."
-			},
-			{
-				"family": "Laé",
-				"given": "M."
-			},
-			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2019",
-					2
-				]
-			]
-		}
-	}
+    {
+        "id": "",
+        "type": "article-journal",
+        "title": "Superconductivity in Twisted Double Bilayer Graphene Stabilized by WSe2",
+        "container-title": "Arxiv",
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "author": [
+            {"family": "Su", "given": "R."},
+            {"family": "Kuiri", "given": "M."},
+            {"family": "Watanabe", "given": "K."},
+            {"family": "Taniguchi", "given": "T."},
+            {"family": "Folk", "given": "J. A."}
+        ],
+        "issued": {
+            "date-parts": [
+                ["2022"]
+            ]
+        }
+    },
+    {
+        "id": "",
+        "type": "article-journal",
+        "title": "Spontaneous time-reversal symmetry breaking in twisted double bilayer graphene",
+        "container-title": "Nature Comm.",
+        "page": "6468",
+        "volume": "13",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "author": [
+            {"family": "Kuiri", "given": "M."},
+            {"family": "Coleman", "given": "C."},
+            {"family": "Gao", "given": "Z."},
+            {"family": "Vishnuradhan", "given": "A."},
+            {"family": "Watanabe", "given": "K."},
+            {"family": "Taniguchi", "given": "T."},
+            {"family": "Zhu", "given": "J."},
+            {"family": "MacDonald", "given": "A. H."},
+            {"family": "Folk", "given": "J. A."}
+        ],
+        "issued": {
+            "date-parts": [
+                ["2022"]
+            ]
+        }
+    },
+    {
+        "id": "",
+        "type": "article-journal",
+        "title": "A Robust Protocol for Entropy Measurement in Mesoscopic Circuits",
+        "container-title": "Entropy",
+        "page": "417",
+        "volume": "24(3)",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "author": [
+            {"family": "Child", "given": "T."},
+            {"family": "Sheekey", "given": "O."},
+            {"family": "Luescher", "given": "S."},
+            {"family": "Fallahi", "given": "S."},
+            {"family": "Gardner", "given": "G. C."},
+            {"family": "Manfra", "given": "M."},
+            {"family": "Folk", "given": "J. A."}
+        ],
+        "issued": {
+            "date-parts": [
+                ["2022"]
+            ]
+        }
+    }
 ]

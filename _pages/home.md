@@ -1,13 +1,13 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "QDEV Lab at UBC"
 sitemap: false
 permalink: /
 ---
 
 ### About the Lab
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+The Quantum Devices Group at the University of British Columbia is led by Prof. Joshua Folk. Our group measures the electronic properties of nanometer- and micron-scale devices at temperatures from 0.01K to 1K, where electronic transport is dominated by quantum mechanical effects. Many of our experiments focus on electron spin, because spin is the quantum degree of freedom that is most resilient to environmental decoherence. Projects underway include spin current control and measurement in GaAs circuits, thermopower spectroscopy in quantum point contacts, decoherence and Kondo interactions in quantum dots, graphene nanoelectronics, and thermodynamic probes of the fractional quantum Hall effect. Positions are available for talented and motivated undergraduate and graduate students (please contact Joshua Folk by email for further information).
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+The Quantum Devices Group is located in rooms 245 and 111 of the Brimacombe Building, on UBC's Vancouver campus.
