@@ -26,7 +26,7 @@ jobs:
       with:
         server: ssh.phas.ubc.ca
         username: qdev
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.QDEV_FTP_PASSWORD }}
         local-dir: ${{ github.workspace }}/_site/
         server-dir: TEST_html/
 
