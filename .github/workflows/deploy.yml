@@ -24,7 +24,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/web-deploy@v1
       with:
-        server: ssh.phas.ubc.ca
+        target-server: ssh.phas.ubc.ca
         remote-user: qdev
         private-ssh-key: ${{ secrets.QDEV_WEBSITE_PRIVATE_SSH_KEY }}
         source-path: ${{ github.workspace }}/_site/
