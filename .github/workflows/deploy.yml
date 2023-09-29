@@ -9,7 +9,7 @@ name: 🚀 Deploy Jekyll website on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: 🚚 Checkout repository
@@ -19,14 +19,14 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        jekyll/builder:4.2.2 /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
 
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/web-deploy@v1
       with:
         server: ssh.phas.ubc.ca
-        username: qdev
-        password: ${{ secrets.QDEV_FTP_PASSWORD }}
-        local-dir: ${{ github.workspace }}/_site/
-        server-dir: TEST_html/
+        remote-user: qdev
+        private-ssh-key: ${{ secrets.QDEV_WEBSITE_PRIVATE_SSH_KEY }}
+        source-path: ${{ github.workspace }}/_site/
+        destination-path: ~/TEST_html/
 
